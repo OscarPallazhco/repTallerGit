@@ -1,0 +1,67 @@
+    1  sudo gedit /boot/grub/grub.cfg
+    2  timedatectl set-local-rtc 1 --adjust-system-clock
+    3  timedatectl
+    4  timedatectl set-local-rtc 1 --adjust-system-clock
+    5  timedatectl
+    6  sudo gedit /boot/grub/grub.cfg
+    7  timedatect
+    8  got
+    9  git
+   10  sudo apt install git
+   11  COMIENZO TALLER
+   12  git config --global user.name Eduardo
+   13  git config --global user.name
+   14  git config --global user.name OscarP
+   15  git config --global user.name
+   16  git config --global user.mail edduard.96@gmail.com
+   17  git config --global user.mail
+   18  pwd
+   19  history > registroTaller.txt
+   20  origin = repositorio en la nube
+   21  mkdir test
+   22  cd test
+   23  history > registroTaller.txt
+   24  git init 
+   25  ls -a
+   26  ls -l .git
+   27  pwd
+   28  history > registroTaller.txt
+   29  git init inicia un repositorio
+   30  vim archivo
+   31  nano archivo
+   32  nano es un editor de texto como vin, nano archivo crea el archivo "archivo"
+   33  git status
+   34  cd ..
+   35  pwd
+   36  git status
+   37  ls
+   38  cd test
+   39  git status
+   40  git status = indica los archivos que aun no se agregan al repostirorio
+   41  git add 
+   42  git add archivo
+   43  git status
+   44  git registroTalle.txt
+   45  git add registroTalle.txt
+   46  git add registroTaller.txt
+   47  "git add -A" sube todos los archivos que aún no se han subido
+   48  git status
+   49  -g status
+   50  - g status
+   51  cat arch1 arch2
+   52  cat arch1
+   53  cat > arch1
+   54  cat > arch2
+   55  cat > .gitignore
+   56  ls
+   57  el archivo ".gitignore" contiene el nombre de los archivos que no quiere que se suban
+   58  git add -A
+   59  git status
+   60  cat > .gitignore
+   61  nano .gitignore
+   62  ls
+   63  git status
+   64  git add .gitignore
+   65  git status
+   66  ls
+   67  history > registroTaller.txt

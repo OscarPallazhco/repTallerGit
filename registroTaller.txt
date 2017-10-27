@@ -104,3 +104,53 @@
   104  git log
   105  git status
   106  history > registroTaller.txt
+  107  git commit
+  108  clear
+  109  git commit
+  110  git status
+  111  git commit
+  112  git config --global
+  113  git commit
+  114  git config --global user.mail
+  115  git config --global user.user
+  116  git config --global user.name
+  117  git commit
+  118  git config user.name
+  119  git config user.mail
+  120  git config user.email "edduard.96@gmail.com"
+  121  git config user.name "OscarP"
+  122  git config user.email
+  123  git config user.name
+  124  git commit
+  125  git status
+  126  git commit
+  127  git status
+  128  git checkout
+  129  git commit
+  130  git status
+  131  git add registroTaller.txt
+  132  git commit
+  133  git status
+  134  git add arch1
+  135  git status
+  136  man git
+  137  git push -u origin master
+  138  git status
+  139  git commit
+  140  git status
+  141  git push -u origin master
+  142  git checkout -b OscarP
+  143  git log
+  144  git branch -l
+  145  ls
+  146  git checkout master
+  147  git log
+  148  git branch -l
+  149  git checkout OscraP
+  150  git checkout OscarP
+  151  git log
+  152  git checkout master
+  153  git log
+  154  git checkout OscarP
+  155  git log
+  156  history > registroTaller.txt

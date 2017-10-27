@@ -65,3 +65,42 @@
    65  git status
    66  ls
    67  history > registroTaller.txt
+   68  "git rm --cached file" sirve para quitar el archivo que se había subido
+   69  git rm --cached arch2
+   70  git status
+   71  git add -A
+   72  git status
+   73  git rm --cached arch2
+   74  git rm --cached arch1
+   75  git status
+   76  "git diff file" revisar los cambios en el archivo
+   77  "remote el la url que apunta al repositorio"
+   78  "Bronch" apunta a una rama dentro del repositorio+
+   79  history > registroTaller.txt
+   80  git remote add add origin https://github.com/OscarPallazhco/repTallerGit.git
+   81  git remote add origin https://github.com/OscarPallazhco/repTallerGit.git
+   82* "nano .git/config" rev
+   83  git remote -v
+   84  git status
+   85  "git commit -m "aqui va la descipcion""
+   86  git commit
+   87  git config --global user.mail edduard.96@gmail.com
+   88  git config --global user.name OscarP
+   89  git commit
+   90  git commit -m "descripcion"
+   91  git status
+   92  git commit
+   93  git config --global user.name "OscarP"
+   94  git commit
+   95  git config --global user.name 
+   96  git config --global user.mail
+   97  git commit
+   98  git config --global user.mail "edduard.96@gmail.com"
+   99  git config --global user.mail
+  100  git commit
+  101  git push origin master
+  102  - g push origin master
+  103  git push origin master
+  104  git log
+  105  git status
+  106  history > registroTaller.txt
